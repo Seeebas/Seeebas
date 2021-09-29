@@ -1,8 +1,18 @@
-### Hi there 👋
+## Hi there 👋
 
-My name is **Sebastian** im a :computer: Software Developer. I'm always eager to learn new stuffs and to challenge myself
+My name is **Sebastian**, im a Software Developer. I'm always eager to learn new things and to challenge myself.
 
-:point_down: More about me
+
+<p>:point_down: I'm interested in</p>
+<ul>
+ <li>:computer: Web Development </li>
+<li>:video_game: Game Development </li>
+ <li>:iphone: Mobile Development </li>
+</ul>
+ 
+ ##
+
+### :point_down: More about me
 
 <a href="https://www.linkedin.com/in/sebastian-cheregi/">
   <img alt="Sebastian Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -17,7 +27,7 @@ My name is **Sebastian** im a :computer: Software Developer. I'm always eager to
 </div>
 
 ##
-### :point_down:  Languages I'm comfortable with
+### :point_down:  **Languages** and **Frameworks** I'm comfortable with
 <br>
 <div style="display:inline:blocked">
   <img alt="Seeebas Java"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -28,6 +38,8 @@ My name is **Sebastian** im a :computer: Software Developer. I'm always eager to
   <img alt="Seeebas CSharp"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img alt="Seeebas Unity3d" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
   <img alt="Seeebas Python"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="Seeebas MySql"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img alt="Seeebas MsSQL"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 </div>
 
 ##
