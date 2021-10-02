@@ -24,6 +24,8 @@ My name is **Sebastian**, im a Software Developer. I'm always eager to learn new
 <div>
   <img alt="Seeebas stats"  height="200" src="https://github-readme-stats.vercel.app/api?username=Seeebas&count_private=true&show_icons=true&theme=dracula" />
   <img alt="Seeebas languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seeebas&count_private=true&layout=compact&theme=dracula" />
+ 
+ <img alt="Seeebas stats waka" src="https://github-readme-stats.vercel.app/api/wakatime?username=Seeebas&theme=dracula" />
 </div>
 
 ##
